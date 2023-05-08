@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\bin\Debug\net6.0\Observer_and_Command.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\bin\Debug\net6.0\Observer_and_Command.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\bin\Debug\net6.0\Observer_and_Command.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\bin\Debug\net6.0\Observer_and_Command.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\bin\Debug\net6.0\Observer_and_Command.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\refint\Observer_and_Command.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\Observer_and_Command.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Observer_and_Command\Observer_and_Command\obj\Debug\net6.0\ref\Observer_and_Command.dll

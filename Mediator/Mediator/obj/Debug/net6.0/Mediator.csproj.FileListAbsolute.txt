@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll

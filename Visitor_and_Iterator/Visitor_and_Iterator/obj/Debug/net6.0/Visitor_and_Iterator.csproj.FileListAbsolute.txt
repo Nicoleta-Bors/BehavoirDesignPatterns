@@ -1,0 +1,15 @@
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\bin\Debug\net6.0\Visitor_and_Iterator.exe
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\bin\Debug\net6.0\Visitor_and_Iterator.deps.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\bin\Debug\net6.0\Visitor_and_Iterator.runtimeconfig.json
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\bin\Debug\net6.0\Visitor_and_Iterator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\bin\Debug\net6.0\Visitor_and_Iterator.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.csproj.AssemblyReference.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.AssemblyInfoInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.AssemblyInfo.cs
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.csproj.CoreCompileInputs.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\refint\Visitor_and_Iterator.dll
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.pdb
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\Visitor_and_Iterator.genruntimeconfig.cache
+N:\UTM\anul III\sem.II\tmps\Laboratoare\Lab3\Visitor_and_Iterator\Visitor_and_Iterator\obj\Debug\net6.0\ref\Visitor_and_Iterator.dll
